@@ -7,3 +7,5 @@ Usando a API do INPE (http://servicos.cptec.inpe.br/XML), foi feito um sitema co
 - Permite que o usuário defina o código da localidade onde quer a previsão;
 - Buscar e lista a previsão de 7 dias para a localidade selecionada;
 - E no momento de exibir o tempo é exibido a descrição dele (Siglas das condições do tempo na página de consulta).
+
+<img src="https://github.com/WillianSi/Clima_tempo_JavaAPI/blob/main/Clima_tempo.jpg" alt="Minha Figura">
